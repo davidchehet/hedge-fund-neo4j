@@ -1,0 +1,1532 @@
+﻿[
+  {
+    "a": {
+      "identity": 0,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "market_cap": "$3.3T",
+        "name": "Apple Inc",
+        "share_price": 220
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:0"
+    },
+    "b": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    }
+  },
+  {
+    "a": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    },
+    "b": {
+      "identity": 0,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "market_cap": "$3.3T",
+        "name": "Apple Inc",
+        "share_price": 220
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:0"
+    }
+  },
+  {
+    "a": {
+      "identity": 0,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "market_cap": "$3.3T",
+        "name": "Apple Inc",
+        "share_price": 220
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:0"
+    },
+    "b": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    }
+  },
+  {
+    "a": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    },
+    "b": {
+      "identity": 0,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "market_cap": "$3.3T",
+        "name": "Apple Inc",
+        "share_price": 220
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:0"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    }
+  },
+  {
+    "a": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    }
+  },
+  {
+    "a": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    }
+  },
+  {
+    "a": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    }
+  },
+  {
+    "a": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 4,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Secretary",
+        "name": "Stephanie",
+        "yrs_xp": 1,
+        "salary": 50000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:4"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 4,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Secretary",
+        "name": "Stephanie",
+        "yrs_xp": 1,
+        "salary": 50000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:4"
+    }
+  },
+  {
+    "a": {
+      "identity": 6,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Recruiter",
+        "name": "Devon",
+        "yrs_xp": 2,
+        "salary": 200000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:6"
+    },
+    "b": {
+      "identity": 5,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "HR Manager",
+        "name": "Matt",
+        "yrs_xp": 3,
+        "salary": 100000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:5"
+    }
+  },
+  {
+    "a": {
+      "identity": 5,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "HR Manager",
+        "name": "Matt",
+        "yrs_xp": 3,
+        "salary": 100000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:5"
+    },
+    "b": {
+      "identity": 6,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Recruiter",
+        "name": "Devon",
+        "yrs_xp": 2,
+        "salary": 200000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:6"
+    }
+  },
+  {
+    "a": {
+      "identity": 6,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Recruiter",
+        "name": "Devon",
+        "yrs_xp": 2,
+        "salary": 200000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:6"
+    },
+    "b": {
+      "identity": 7,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Intern",
+        "name": "Edwin",
+        "yrs_xp": 1,
+        "salary": 0
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:7"
+    }
+  },
+  {
+    "a": {
+      "identity": 7,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Intern",
+        "name": "Edwin",
+        "yrs_xp": 1,
+        "salary": 0
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:7"
+    },
+    "b": {
+      "identity": 6,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Recruiter",
+        "name": "Devon",
+        "yrs_xp": 2,
+        "salary": 200000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:6"
+    }
+  },
+  {
+    "a": {
+      "identity": 7,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Intern",
+        "name": "Edwin",
+        "yrs_xp": 1,
+        "salary": 0
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:7"
+    },
+    "b": {
+      "identity": 8,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Analyst",
+        "name": "Chuck",
+        "yrs_xp": 3,
+        "salary": 120000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:8"
+    }
+  },
+  {
+    "a": {
+      "identity": 8,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Analyst",
+        "name": "Chuck",
+        "yrs_xp": 3,
+        "salary": 120000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:8"
+    },
+    "b": {
+      "identity": 7,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Intern",
+        "name": "Edwin",
+        "yrs_xp": 1,
+        "salary": 0
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:7"
+    }
+  },
+  {
+    "a": {
+      "identity": 8,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Analyst",
+        "name": "Chuck",
+        "yrs_xp": 3,
+        "salary": 120000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:8"
+    },
+    "b": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    }
+  },
+  {
+    "a": {
+      "identity": 2,
+      "labels": [
+        "Bonds"
+      ],
+      "properties": {
+        "interest": 3.0,
+        "name": "Bonds",
+        "term": 5
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:2"
+    },
+    "b": {
+      "identity": 8,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Analyst",
+        "name": "Chuck",
+        "yrs_xp": 3,
+        "salary": 120000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:8"
+    }
+  },
+  {
+    "a": {
+      "identity": 9,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Account",
+        "name": "Bucky",
+        "yrs_xp": 2,
+        "salary": 250000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:9"
+    },
+    "b": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    },
+    "b": {
+      "identity": 9,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Account",
+        "name": "Bucky",
+        "yrs_xp": 2,
+        "salary": 250000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:9"
+    }
+  },
+  {
+    "a": {
+      "identity": 9,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Account",
+        "name": "Bucky",
+        "yrs_xp": 2,
+        "salary": 250000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:9"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 9,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Account",
+        "name": "Bucky",
+        "yrs_xp": 2,
+        "salary": 250000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:9"
+    }
+  },
+  {
+    "a": {
+      "identity": 10,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Trader",
+        "name": "Bernard",
+        "yrs_xp": 2,
+        "salary": 250000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:10"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 10,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Trader",
+        "name": "Bernard",
+        "yrs_xp": 2,
+        "salary": 250000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:10"
+    }
+  },
+  {
+    "a": {
+      "identity": 11,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Risk Manager",
+        "name": "Thomas",
+        "yrs_xp": 4,
+        "salary": 350000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:11"
+    },
+    "b": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Fund Manager",
+        "ownership": 0.49,
+        "name": "David",
+        "yrs_xp": 10,
+        "salary": 1500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:3"
+    },
+    "b": {
+      "identity": 11,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Risk Manager",
+        "name": "Thomas",
+        "yrs_xp": 4,
+        "salary": 350000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:11"
+    }
+  },
+  {
+    "a": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    },
+    "b": {
+      "identity": 15,
+      "labels": [
+        "Conference_Call",
+        "Event"
+      ],
+      "properties": {
+        "date": "Q1 Call",
+        "name": "Q1 Call"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:15"
+    }
+  },
+  {
+    "a": {
+      "identity": 15,
+      "labels": [
+        "Event",
+        "Conference_Call"
+      ],
+      "properties": {
+        "date": "Q1 Call",
+        "name": "Q1 Call"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:15"
+    },
+    "b": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    }
+  },
+  {
+    "a": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    },
+    "b": {
+      "identity": 14,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 5,
+        "ownership": 0.21,
+        "name": "JP Morgan"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:14"
+    }
+  },
+  {
+    "a": {
+      "identity": 14,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 5,
+        "ownership": 0.21,
+        "name": "JP Morgan"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:14"
+    },
+    "b": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    }
+  },
+  {
+    "a": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    },
+    "b": {
+      "identity": 18,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 2,
+        "ownership": 0.15,
+        "name": "Goldman Sachs"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:18"
+    }
+  },
+  {
+    "a": {
+      "identity": 18,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 2,
+        "ownership": 0.15,
+        "name": "Goldman Sachs"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:18"
+    },
+    "b": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    }
+  },
+  {
+    "a": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    },
+    "b": {
+      "identity": 19,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 1,
+        "ownership": 0.05,
+        "name": "Blackrock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:19"
+    }
+  },
+  {
+    "a": {
+      "identity": 19,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 1,
+        "ownership": 0.05,
+        "name": "Blackrock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:19"
+    },
+    "b": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    }
+  },
+  {
+    "a": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    },
+    "b": {
+      "identity": 20,
+      "labels": [
+        "Partner",
+        "Person"
+      ],
+      "properties": {
+        "yrs_invested": 8,
+        "ownership": 0.1,
+        "name": "William Ackman"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:20"
+    }
+  },
+  {
+    "a": {
+      "identity": 20,
+      "labels": [
+        "Person",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 8,
+        "ownership": 0.1,
+        "name": "William Ackman"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:20"
+    },
+    "b": {
+      "identity": 12,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Investor Relations",
+        "name": "Richard",
+        "yrs_xp": 2,
+        "salary": 150000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:12"
+    }
+  },
+  {
+    "a": {
+      "identity": 13,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Quant",
+        "name": "Ray",
+        "yrs_xp": 5,
+        "salary": 500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:13"
+    },
+    "b": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    }
+  },
+  {
+    "a": {
+      "identity": 1,
+      "labels": [
+        "Common_Stock"
+      ],
+      "properties": {
+        "shares": 15287521000,
+        "name": "Common Stock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:1"
+    },
+    "b": {
+      "identity": 13,
+      "labels": [
+        "Employee",
+        "Person"
+      ],
+      "properties": {
+        "role": "Quant",
+        "name": "Ray",
+        "yrs_xp": 5,
+        "salary": 500000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:13"
+    }
+  },
+  {
+    "a": {
+      "identity": 14,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 5,
+        "ownership": 0.21,
+        "name": "JP Morgan"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:14"
+    },
+    "b": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    },
+    "b": {
+      "identity": 14,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 5,
+        "ownership": 0.21,
+        "name": "JP Morgan"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:14"
+    }
+  },
+  {
+    "a": {
+      "identity": 18,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 2,
+        "ownership": 0.15,
+        "name": "Goldman Sachs"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:18"
+    },
+    "b": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    },
+    "b": {
+      "identity": 18,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 2,
+        "ownership": 0.15,
+        "name": "Goldman Sachs"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:18"
+    }
+  },
+  {
+    "a": {
+      "identity": 19,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 1,
+        "ownership": 0.05,
+        "name": "Blackrock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:19"
+    },
+    "b": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    },
+    "b": {
+      "identity": 19,
+      "labels": [
+        "Institution",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 1,
+        "ownership": 0.05,
+        "name": "Blackrock"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:19"
+    }
+  },
+  {
+    "a": {
+      "identity": 20,
+      "labels": [
+        "Person",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 8,
+        "ownership": 0.1,
+        "name": "William Ackman"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:20"
+    },
+    "b": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Fund"
+      ],
+      "properties": {
+        "name": "FGC High Risk",
+        "aum": 80000000000
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:16"
+    },
+    "b": {
+      "identity": 20,
+      "labels": [
+        "Person",
+        "Partner"
+      ],
+      "properties": {
+        "yrs_invested": 8,
+        "ownership": 0.1,
+        "name": "William Ackman"
+      },
+      "elementId": "4:71e65092-9870-4f96-892e-af4a666c6ed7:20"
+    }
+  }
+]
